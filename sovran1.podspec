@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
-  spec.name         = "sovran"
+  spec.name         = "sovran1"
   spec.version      = "0.0.1"
-  spec.summary      = "sovran ios"
+  spec.summary      = "sovran1 ios"
   spec.description  = <<-DESC
                        savoran pod
                        DESC
