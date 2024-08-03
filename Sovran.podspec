@@ -1,14 +1,14 @@
 Pod::Spec.new do |spec|
   spec.name         = "Sovran"
-  spec.version      = "1.0.0"
-  spec.summary      = "A short description of Sovran"
+  spec.version      = "0.0.1"
+  spec.summary      = "Sovran ios"
   spec.description  = <<-DESC
-                       A longer description of Sovran in more detail.
+                       Savoran pod
                        DESC
-  spec.homepage     = "https://github.com/yourusername/Sovran"
+  spec.homepage     = "https://github.com/goldman59/sovran"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "Your Name" => "your.email@example.com" }
-  spec.source       = { :git => "https://github.com/yourusername/Sovran.git", :tag => "#{spec.version}" }
+  spec.author       = { "goldman" => "goldmankahled59@gmail.com" }
+  spec.source       = { :git => "https://github.com/goldman59/sovran.git", :tag => "#{spec.version}" }
   spec.ios.deployment_target = "13.0"
   spec.osx.deployment_target = "10.15"
 
