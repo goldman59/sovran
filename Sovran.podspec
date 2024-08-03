@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
-  spec.name         = "Sovran"
+  spec.name         = "sovran"
   spec.version      = "0.0.1"
-  spec.summary      = "Sovran ios"
+  spec.summary      = "sovran ios"
   spec.description  = <<-DESC
-                       Savoran pod
+                       savoran pod
                        DESC
   spec.homepage     = "https://github.com/goldman59/sovran"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
